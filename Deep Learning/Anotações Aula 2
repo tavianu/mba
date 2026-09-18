@@ -1,0 +1,16 @@
+- Neurônio MCP - Não consegue lidar com problemas que não sejam linearmente separáveis
+- Perceptron - 
+- Funções de Ativação
+    -   Linear - Não faz somatório x * w
+        -  Apenas Retorna o somatório
+    - Sigmoide
+        - 
+    ReLu
+        - 
+- Redes Multicamadas - Redes Neurais MLP
+    - Conseguimos resolver problemas não lineares
+- Redes Multicamadas MLP - Topologia Feed Foward
+    - Recebe ativações de camadas anteriores para gerar a predição final na última camada
+
+- Redes Recorrentes - 
+- Redes Neurais Convolucionais
